@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  gears.cpp
+  vulkangear.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gears\vulkangear.cpp(56,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gears\vulkangear.cpp(62,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gears\vulkangear.cpp(254,29): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gears\vulkangear.cpp(45,9): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+  gears.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\gears.exe

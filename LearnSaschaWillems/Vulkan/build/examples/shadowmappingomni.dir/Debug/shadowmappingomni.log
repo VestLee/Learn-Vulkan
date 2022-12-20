@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  shadowmappingomni.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(557,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(571,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(606,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(614,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(681,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmappingomni\shadowmappingomni.cpp(698,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  shadowmappingomni.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\shadowmappingomni.exe

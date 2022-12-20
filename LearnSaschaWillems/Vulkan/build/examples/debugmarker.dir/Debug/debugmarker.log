@@ -1,0 +1,10 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  debugmarker.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(459,12): warning C4101: “scissor”: 未引用的局部变量
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(458,14): warning C4101: “viewport”: 未引用的局部变量
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(596,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(608,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(630,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(643,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\debugmarker\debugmarker.cpp(654,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  debugmarker.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\debugmarker.exe

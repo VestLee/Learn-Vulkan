@@ -1,0 +1,10 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  computeraytracing.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(492,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(511,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(543,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(593,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(622,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(669,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeraytracing\computeraytracing.cpp(716,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  computeraytracing.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\computeraytracing.exe

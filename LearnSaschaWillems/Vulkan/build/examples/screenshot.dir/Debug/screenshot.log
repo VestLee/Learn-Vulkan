@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  screenshot.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\screenshot\screenshot.cpp(128,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\screenshot\screenshot.cpp(156,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  screenshot.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\screenshot.exe

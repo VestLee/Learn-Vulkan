@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  descriptorindexing.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\descriptorindexing\descriptorindexing.cpp(108,33): warning C4244: “=”: 从“short”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=uint8_t
+          ]
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\descriptorindexing\descriptorindexing.cpp(109,33): warning C4244: “=”: 从“short”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=uint8_t
+          ]
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\descriptorindexing\descriptorindexing.cpp(110,33): warning C4244: “=”: 从“short”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=uint8_t
+          ]
+  descriptorindexing.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\descriptorindexing.exe

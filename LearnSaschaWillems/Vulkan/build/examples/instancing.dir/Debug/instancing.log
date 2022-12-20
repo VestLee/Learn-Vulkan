@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  instancing.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(193,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(227,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(235,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(260,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(347,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\instancing\instancing.cpp(356,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  instancing.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\instancing.exe

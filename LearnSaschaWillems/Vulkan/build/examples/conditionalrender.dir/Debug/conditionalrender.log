@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  conditionalrender.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\conditionalrender\conditionalrender.cpp(168,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\conditionalrender\conditionalrender.cpp(194,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  conditionalrender.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\conditionalrender.exe

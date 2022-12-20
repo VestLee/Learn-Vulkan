@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  dynamicstate.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\dynamicstate\dynamicstate.cpp(196,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\dynamicstate\dynamicstate.cpp(215,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\dynamicstate\dynamicstate.cpp(247,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\dynamicstate\dynamicstate.cpp(287,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  dynamicstate.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\dynamicstate.exe

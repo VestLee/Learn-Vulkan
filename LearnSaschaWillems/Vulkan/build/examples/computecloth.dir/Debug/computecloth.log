@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  computecloth.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computecloth\computecloth.cpp(677,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  computecloth.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\computecloth.exe

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  graphicspipelinelibrary.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\graphicspipelinelibrary\graphicspipelinelibrary.cpp(201,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  graphicspipelinelibrary.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\graphicspipelinelibrary.exe

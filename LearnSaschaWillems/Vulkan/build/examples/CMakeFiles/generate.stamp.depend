@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake
+D:/CMake/share/cmake-3.21/Modules/FindOpenMP.cmake
+D:/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+D:/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt

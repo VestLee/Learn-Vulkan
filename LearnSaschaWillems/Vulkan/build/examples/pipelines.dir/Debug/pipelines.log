@@ -1,0 +1,10 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  pipelines.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(115,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(122,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(134,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(165,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(184,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(216,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\pipelines\pipelines.cpp(240,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  pipelines.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\pipelines.exe

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  inputattachments.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\inputattachments\inputattachments.cpp(445,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\inputattachments\inputattachments.cpp(446,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\inputattachments\inputattachments.cpp(447,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\inputattachments\inputattachments.cpp(449,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  inputattachments.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\inputattachments.exe

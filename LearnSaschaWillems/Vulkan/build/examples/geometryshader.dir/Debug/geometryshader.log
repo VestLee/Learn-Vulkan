@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  geometryshader.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\geometryshader\geometryshader.cpp(155,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\geometryshader\geometryshader.cpp(179,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\geometryshader\geometryshader.cpp(217,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\geometryshader\geometryshader.cpp(246,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  geometryshader.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\geometryshader.exe

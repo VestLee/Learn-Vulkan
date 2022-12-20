@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  multisampling.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(101,3): warning C4018: “>=”: 有符号/无符号不匹配
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(281,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(324,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(401,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(432,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\multisampling\multisampling.cpp(461,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  multisampling.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\multisampling.exe

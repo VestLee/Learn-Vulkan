@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  negativeviewportheight.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\negativeviewportheight\negativeviewportheight.cpp(99,18): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\negativeviewportheight\negativeviewportheight.cpp(107,18): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\negativeviewportheight\negativeviewportheight.cpp(108,18): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+  negativeviewportheight.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\negativeviewportheight.exe

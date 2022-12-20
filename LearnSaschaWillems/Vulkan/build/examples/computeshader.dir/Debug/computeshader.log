@@ -1,0 +1,11 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  computeshader.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(177,23): warning C4244: “=”: 从“uint32_t”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(351,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(353,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(398,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(406,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(457,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(480,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\computeshader\computeshader.cpp(532,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  computeshader.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\computeshader.exe

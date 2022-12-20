@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gltfskinning\gltfskinning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gltfskinning\gltfskinning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\gltfskinning\skinnedmodel.frag">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\gltfskinning\skinnedmodel.vert">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\gltfskinning\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18CC21B1-E1B9-39DC-8370-AC3466EF6E0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{9E762095-0ADA-397B-B5C7-5713CE8A9A80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\GLSL">
+      <UniqueIdentifier>{0B53B7F2-823A-3B19-81CF-B537E81D4058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99D9FC41-54D4-340B-90F9-64B925E8B98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

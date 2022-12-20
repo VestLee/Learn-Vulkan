@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  subpasses.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\subpasses\subpasses.cpp(239,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  subpasses.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\subpasses.exe

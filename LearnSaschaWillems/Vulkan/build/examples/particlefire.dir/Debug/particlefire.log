@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  particlefire.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\particlefire\particlefire.cpp(405,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\particlefire\particlefire.cpp(418,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\particlefire\particlefire.cpp(442,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  particlefire.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\particlefire.exe

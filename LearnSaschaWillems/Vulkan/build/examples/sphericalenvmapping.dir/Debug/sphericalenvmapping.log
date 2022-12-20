@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  sphericalenvmapping.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\sphericalenvmapping\sphericalenvmapping.cpp(126,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\sphericalenvmapping\sphericalenvmapping.cpp(150,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\sphericalenvmapping\sphericalenvmapping.cpp(188,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\sphericalenvmapping\sphericalenvmapping.cpp(201,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\sphericalenvmapping\sphericalenvmapping.cpp(212,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  sphericalenvmapping.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\sphericalenvmapping.exe

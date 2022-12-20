@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\hdr\hdr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\bloom.frag">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\bloom.vert">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\composition.frag">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\composition.vert">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\gbuffer.frag">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\glsl\hdr\gbuffer.vert">
+      <Filter>Shaders\GLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\bloom.frag">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\bloom.vert">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\composition.frag">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\composition.vert">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\gbuffer.frag">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+    <None Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\data\shaders\hlsl\hdr\gbuffer.vert">
+      <Filter>Shaders\HLSL</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{9E762095-0ADA-397B-B5C7-5713CE8A9A80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\GLSL">
+      <UniqueIdentifier>{0B53B7F2-823A-3B19-81CF-B537E81D4058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\HLSL">
+      <UniqueIdentifier>{9B537854-D37E-3AE4-9E9D-EDD9A69D427C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99D9FC41-54D4-340B-90F9-64B925E8B98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

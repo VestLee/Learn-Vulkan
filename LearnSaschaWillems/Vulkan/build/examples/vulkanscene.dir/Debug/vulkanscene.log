@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  vulkanscene.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\vulkanscene\vulkanscene.cpp(163,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\vulkanscene\vulkanscene.cpp(187,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\vulkanscene\vulkanscene.cpp(232,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\vulkanscene\vulkanscene.cpp(255,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  vulkanscene.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\vulkanscene.exe

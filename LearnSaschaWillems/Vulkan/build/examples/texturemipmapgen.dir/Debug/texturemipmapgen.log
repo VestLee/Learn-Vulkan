@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  texturemipmapgen.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturemipmapgen\texturemipmapgen.cpp(117,76): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturemipmapgen\texturemipmapgen.cpp(227,25): warning C4018: “<”: 有符号/无符号不匹配
+  texturemipmapgen.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\texturemipmapgen.exe

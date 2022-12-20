@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  texture3d.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texture3d\texture3d.cpp(310,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texture3d\texture3d.cpp(312,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texture3d\texture3d.cpp(314,27): warning C4018: “<”: 有符号/无符号不匹配
+  texture3d.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\texture3d.exe

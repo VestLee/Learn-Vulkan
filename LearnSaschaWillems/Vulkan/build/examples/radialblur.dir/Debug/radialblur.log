@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  radialblur.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\radialblur\radialblur.cpp(409,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\radialblur\radialblur.cpp(461,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\radialblur\radialblur.cpp(474,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\radialblur\radialblur.cpp(487,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\radialblur\radialblur.cpp(499,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  radialblur.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\radialblur.exe

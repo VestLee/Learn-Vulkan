@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  texturecubemap.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(259,27): warning C4244: “=”: 从“uint32_t”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(371,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(395,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(440,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(460,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\texturecubemap\texturecubemap.cpp(484,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  texturecubemap.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\texturecubemap.exe

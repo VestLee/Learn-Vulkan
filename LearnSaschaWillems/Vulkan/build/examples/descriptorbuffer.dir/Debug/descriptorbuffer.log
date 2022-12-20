@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  descriptorbuffer.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\descriptorbuffer\descriptorbuffer.cpp(232,56): warning C4244: “初始化”: 从“VkDeviceSize”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\descriptorbuffer\descriptorbuffer.cpp(232,28): warning C4244: “初始化”: 从“VkDeviceSize”转换到“const uint32_t”，可能丢失数据
+  descriptorbuffer.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\descriptorbuffer.exe

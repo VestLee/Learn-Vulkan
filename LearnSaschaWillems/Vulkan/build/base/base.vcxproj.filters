@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanAndroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanDebug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanDevice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanRaytracingSample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanSwapChain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanUIOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanglTFModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\vulkanexamplebase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\texture.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\hashlist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\checkheader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\swap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\memstream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\external\ktx\lib\filestream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanAndroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanDebug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanDevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanFrameBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanHeightmap.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanInitializers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanRaytracingSample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanSwapChain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanUIOverlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\VulkanglTFModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\benchmark.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\frustum.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\keycodes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\threadpool.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\vulkanexamplebase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\base\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18CC21B1-E1B9-39DC-8370-AC3466EF6E0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99D9FC41-54D4-340B-90F9-64B925E8B98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

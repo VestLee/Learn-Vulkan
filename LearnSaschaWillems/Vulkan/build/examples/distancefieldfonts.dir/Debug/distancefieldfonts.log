@@ -1,0 +1,14 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  distancefieldfonts.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(41,32): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(255,11): warning C4244: “初始化”: 从“uint32_t”转换到“float”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(297,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(352,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(354,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(370,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(400,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(452,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(477,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(536,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\distancefieldfonts\distancefieldfonts.cpp(558,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  distancefieldfonts.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\distancefieldfonts.exe

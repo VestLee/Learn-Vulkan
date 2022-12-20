@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Learn-Vulkan/LearnSaschaWillems/Vulkan/examples/CMakeLists.txt
+  shadowmapping.cpp
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(420,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(428,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(438,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(451,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(462,1): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\shadowmapping\shadowmapping.cpp(505,1): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  shadowmapping.vcxproj -> D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\build\bin\Debug\shadowmapping.exe

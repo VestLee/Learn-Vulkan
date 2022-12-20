@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\dynamicstate\dynamicstate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Learn-Vulkan\LearnSaschaWillems\Vulkan\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99D9FC41-54D4-340B-90F9-64B925E8B98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
